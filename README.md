@@ -9,3 +9,7 @@ In this app design i am using follwing dependency.
 3.Scalable Size Unit(Support for differnt Screen Size)
 4.Material Design
 5.Rounded Image View
+
+In this app i am using bottom sheet behavior to pick the color of note and add image or url to save in note.
+Searching option is also available in this note app.
+Quick Action is also avialable to create note.
